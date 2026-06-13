@@ -15,7 +15,7 @@ source:
 
 # Anis vert (*Pimpinella anisum*)
 
-> **Épice tracée** : graines d'anis vert — aromate des mélanges sucrés, liqueurs, pains d'épices, tisanes digestives. À distinguer de l'[[Anis étoilé / Badiane|anis étoilé]] (arbre tropical non cultivable, voir [[Épices non cultivables en Aveyron]]).
+> **Épice tracée** : graines d'anis vert — aromate des mélanges sucrés, liqueurs, pains d'épices, tisanes digestives. À distinguer de l'anis étoilé / badiane (arbre tropical non cultivable, voir [[Épices non cultivables en Aveyron]]).
 
 Annuelle ombellifère méditerranéenne et moyen-orientale, à la saveur anisée douce. Cultivable en climat chaud et ensoleillé comme le Sud-Aveyron.
 

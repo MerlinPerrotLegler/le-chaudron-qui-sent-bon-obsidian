@@ -61,7 +61,7 @@ Plante vivace rhizomateuse à forte expansion. Utilisée fraîche ou séchée da
 ## Associations déconseillées
 
 - **[[Lavande]], [[Romarin]], [[Thym]]** : incompatibilité hydrique totale — ne pas mélanger dans le même espace
-- **[[Camomille]]** : compétition pour l'espace et les nutriments
+- **[[Camomille Romaine]]** : compétition pour l'espace et les nutriments
 - Toutes les plantes de garrigue : sols et besoins radicalement différents
 
 ## Transformation en épice

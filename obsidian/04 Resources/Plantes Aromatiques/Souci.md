@@ -51,7 +51,7 @@ Faible à modéré. Résistant à la sécheresse. Arrosage léger en été.
 ## Associations favorables
 
 - **Plante compagne universelle** : repousse nématodes, aleurodes, pucerons
-- [[Tomates]], légumes : protecteur général du jardin
+- Tomates, légumes : protecteur général du jardin
 - [[Lavande]] : association ornementale et fonctionnelle
 
 ## Associations déconseillées
