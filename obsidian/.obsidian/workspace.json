@@ -11,14 +11,10 @@
             "id": "58f9dfb0c8f2e673",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bienvenue.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Bienvenue"
+              "title": "Nouvel onglet"
             }
           }
         ]
@@ -199,8 +195,9 @@
       "bases:Créer une nouvelle base": false
     }
   },
-  "active": "58f9dfb0c8f2e673",
+  "active": "43f9214cce46e92e",
   "lastOpenFiles": [
+    "01 Dashboard/Dashboard Le Chaudron qui sent bon.md",
     "Bienvenue.md"
   ]
 }
