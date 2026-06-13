@@ -61,6 +61,18 @@ Atelier principal de La Cavalerie de Combret. Culture de **Plantes à Parfum, Ar
 - Vente en gros via [[Associations et Labels PPAM]] (Erboressens, S.I.M.P.L.E.S.)
 - Vente à la ferme et boutique de producteur
 
+## Fiches détaillées par espèce
+
+Voir les fiches de culture complètes dans [[Index Plantes Aromatiques]] :
+
+- [[Hélichryse]] — culture, risques, séchage, HE
+- [[Lavande]] — culture, risques, distillation, associations
+- [[Thym]] — culture, risques, séchage, épice
+- [[Sarriette]] — culture, risques, séchage
+- [[Romarin]] — culture, risques, séchage
+
+Et 35+ autres plantes cultivables en Aveyron avec leurs détails complets.
+
 ## Liens
 
 - [[La Cavalerie de Combret]]
@@ -69,3 +81,4 @@ Atelier principal de La Cavalerie de Combret. Culture de **Plantes à Parfum, Ar
 - [[Associations et Labels PPAM]]
 - [[Sols Rougier de Camarès]]
 - [[Gestion de l'Eau]]
+- [[Index Plantes Aromatiques]]
