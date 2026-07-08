@@ -144,26 +144,26 @@ Seuil de rentabilité = Charges fixes / Taux de marge sur coûts variables
 
 ### Investissements
 
-| Investissement | Montant HT | Durée amort. | Amort./an |
-|---------------|-----------|-------------|----------|
-| Serre double tunnel | 8 000 € | 10 ans | 800 € |
-| Équipements labo (déshydrateur, stérilisateur, étiqueteuse, mise sous vide) | 15 000 € | 8 ans | 1 875 € |
-| Véhicule utilitaire (si non disponible) | 10 000 € | 5 ans | 2 000 € |
-| Matériel maraîchage / culture (outillage, système irrigation) | 5 000 € | 7 ans | 714 € |
-| Communication initiale (site web, étiquettes, PLV) | 3 000 € | 3 ans | 1 000 € |
-| Fonds de roulement initial | 12 000 € | — | — |
-| **TOTAL** | **53 000 €** | | **6 389 €/an** |
+| Investissement                                                              | Montant HT   | Durée amort. | Amort./an      |
+| --------------------------------------------------------------------------- | ------------ | ------------ | -------------- |
+| Serre double tunnel                                                         | 16 000 €     | 10 ans       | 1200 €         |
+| Équipements labo (déshydrateur, stérilisateur, étiqueteuse, mise sous vide) | 15 000 €     | 8 ans        | 1 875 €        |
+| Véhicule utilitaire (si non disponible)                                     | 10 000 €     | 5 ans        | 2 000 €        |
+| Matériel maraîchage / culture (outillage, système irrigation)               | 5 000 €      | 7 ans        | 714 €          |
+| Communication initiale (site web, étiquettes, PLV)                          | 3 000 €      | 3 ans        | 1 000 €        |
+| Fonds de roulement initial                                                  | 12 000 €     | —            | —              |
+| **TOTAL**                                                                   | **59 000 €** |              | **6 389 €/an** |
 
 ### Sources de financement
 
-| Source | Montant | Conditions |
-|--------|---------|-----------|
-| DJA (Dotation Jeune Agriculteur) | 8 000 – 20 000 € | Éligibilité < 40 ans, plan entreprise validé |
-| Emprunt bancaire JA (Crédit Agricole) | 15 000 – 25 000 € | Taux bonifié JA, 7 ans |
-| PCAE Occitanie (équipements labo/PPAM) | 5 000 – 15 000 € | Taux de subvention 20-40 % |
-| Apport personnel | 5 000 – 10 000 € | — |
-| ADIE (si complémentaire) | jusqu'à 10 000 € | Microcrédit, taux fixe |
-| **TOTAL** | **~53 000 €** | |
+| Source                                 | Montant           | Conditions                                   |
+| -------------------------------------- | ----------------- | -------------------------------------------- |
+| DJA (Dotation Jeune Agriculteur)       | 21 000 €          | Éligibilité < 40 ans, plan entreprise validé |
+| Emprunt bancaire JA (Crédit Agricole)  | 15 000 – 25 000 € | Taux bonifié JA, 7 ans                       |
+| PCAE Occitanie (équipements labo/PPAM) | 5 000 – 15 000 €  | Taux de subvention 20-40 %                   |
+| Apport personnel                       | 5 000 – 40 000 €  | —                                            |
+| ADIE (si complémentaire)               | jusqu'à 10 000 €  | Microcrédit, taux fixe                       |
+| **TOTAL**                              | **~53 000 €**     |                                              |
 
 ---
 
@@ -218,8 +218,8 @@ Seuil de rentabilité = Charges fixes / Taux de marge sur coûts variables
 
 ## 9. Liens
 
-- [[Plan BPREA]]
-- [[Plan Opérationnel]]
+- [[1 - Plan BPREA]]
+- [[4 - Plan Opérationnel]]
 - [[Production PPAM]]
 - [[Associations et Labels PPAM]]
 - [[Planning Culture]]

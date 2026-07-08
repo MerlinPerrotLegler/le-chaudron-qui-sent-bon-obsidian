@@ -19,9 +19,9 @@ Trois lectures du même projet, adaptées à trois usages :
 
 | Fichier | Format | Pour qui |
 |---------|--------|---------|
-| [[Plan BPREA]] | Structure BPREA/Chambre agriculture | Dossier de formation, jury, MSA |
-| [[Plan Investisseur]] | Prévisionnel financier détaillé | Banque, ADIE, investisseur, subventions |
-| [[Plan Opérationnel]] | Pilotage quotidien | L'exploitant, année par année |
+| [[1 - Plan BPREA]] | Structure BPREA/Chambre agriculture | Dossier de formation, jury, MSA |
+| [[3 - Plan Investisseur]] | Prévisionnel financier détaillé | Banque, ADIE, investisseur, subventions |
+| [[4 - Plan Opérationnel]] | Pilotage quotidien | L'exploitant, année par année |
 
 ---
 

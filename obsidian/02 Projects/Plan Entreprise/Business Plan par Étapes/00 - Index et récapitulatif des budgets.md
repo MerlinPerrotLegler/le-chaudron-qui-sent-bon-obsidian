@@ -21,9 +21,9 @@ source:
 
 > **Business Plan par Étapes — Le Chaudron qui Sent Bon**
 > Lecture *chronologique* du projet : du dépôt DJA au rythme de croisière.
-> Pour les lectures par audience, voir [[Plan BPREA]], [[Plan Investisseur]], [[Plan Opérationnel]].
+> Pour les lectures par audience, voir [[1 - Plan BPREA]], [[3 - Plan Investisseur]], [[4 - Plan Opérationnel]].
 
-Cette page est à la fois le **sommaire** du business plan par étapes et la **page Budget** de référence : tous les tableaux chiffrés y sont regroupés et **vérifiés** (réconciliés sur le [[Plan Investisseur]]).
+Cette page est à la fois le **sommaire** du business plan par étapes et la **page Budget** de référence : tous les tableaux chiffrés y sont regroupés et **vérifiés** (réconciliés sur le [[3 - Plan Investisseur]]).
 
 ---
 
@@ -52,7 +52,7 @@ Cette page est à la fois le **sommaire** du business plan par étapes et la **p
 | Rémunération exploitant | — | 12 000 € | 18 000 € | 28 000 € | 36 000 € |
 | **Résultat net** | **−8 200 €** | **+3 900 €** | **+8 800 €** | **+19 700 €** | **+35 200 €** |
 
-> ⚙️ **Correction de cohérence (vérifiée) :** le total des charges An 5 est de **67 300 €** (somme exacte des postes ci-dessous), et non 66 300 € comme indiqué initialement dans le [[Plan Investisseur]]. Le résultat avant rémunération An 5 passe donc de 48 700 € à **47 700 €**, et le résultat net de 20 700 € à **19 700 €**.
+> ⚙️ **Correction de cohérence (vérifiée) :** le total des charges An 5 est de **67 300 €** (somme exacte des postes ci-dessous), et non 66 300 € comme indiqué initialement dans le [[3 - Plan Investisseur]]. Le résultat avant rémunération An 5 passe donc de 48 700 € à **47 700 €**, et le résultat net de 20 700 € à **19 700 €**.
 
 ---
 
@@ -255,7 +255,7 @@ Exercice cible « plein régime » présenté en UC5 (3 t de production, ~11 000
 | AXA (assurance) | −1 582,30 € |
 | **Résultat net cible** | **+51 962,70 €** |
 
-> ⚙️ **Cohérence (vérifiée) :** total recalculé = **51 962 €** (les charges et pertes représentent exactement 50 % de la valeur des produits). Ce modèle UC5 est une **lecture alternative « croisière »** qui intègre les aides PAC/ICHN et le crédit d'impôt BIO — non comptés dans la synthèse §1 (issue du [[Plan Investisseur]]). Les deux approches se rejoignent sur un résultat de croisière de l'ordre de 35 000 – 52 000 € selon le périmètre des aides retenu.
+> ⚙️ **Cohérence (vérifiée) :** total recalculé = **51 962 €** (les charges et pertes représentent exactement 50 % de la valeur des produits). Ce modèle UC5 est une **lecture alternative « croisière »** qui intègre les aides PAC/ICHN et le crédit d'impôt BIO — non comptés dans la synthèse §1 (issue du [[3 - Plan Investisseur]]). Les deux approches se rejoignent sur un résultat de croisière de l'ordre de 35 000 – 52 000 € selon le périmètre des aides retenu.
 
 **Hypothèses physiques (UC5) :** 3 t de production · ~11 000 produits à vendre · 2 à 3 mois de transformation à temps plein · 2 serres de 50 m × 7 m · 400 m linéaires de planches extérieures.
 
@@ -264,6 +264,6 @@ Exercice cible « plein régime » présenté en UC5 (3 t de production, ~11 000
 ## Liens
 
 - Fiches étapes : [[01 - Pré-Installation]] · [[02 - Installation]] · [[03 - 1ère année]] · [[04 - 2ème année]] · [[05 - 3ème année]] · [[06 - Rythme de croisière]]
-- Plans par audience : [[Plan BPREA]] · [[Plan Investisseur]] · [[Plan Opérationnel]]
+- Plans par audience : [[1 - Plan BPREA]] · [[3 - Plan Investisseur]] · [[4 - Plan Opérationnel]]
 - Production : [[Production PPAM]] · [[Labo PPAM]] · [[Planning Culture]] · [[0 - Index Plantes Aromatiques]]
 - Territoire : [[La Cavalerie de Combret]] · [[Retenue Collinaire]] · [[Associations et Labels PPAM]]

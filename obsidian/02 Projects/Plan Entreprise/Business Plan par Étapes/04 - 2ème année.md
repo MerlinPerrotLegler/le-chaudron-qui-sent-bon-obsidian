@@ -97,4 +97,4 @@ Année de la **bascule** : montée en gamme du labo, premières récoltes PPAM c
 - Index : [[00 - Index et récapitulatif des budgets]]
 - Production : [[Production PPAM]] · [[Labo PPAM]] · [[Planning Culture]]
 - Filière : [[Associations et Labels PPAM]] · [[Points de Vente]]
-- Plans : [[Plan Investisseur]] · [[Plan Opérationnel]]
+- Plans : [[3 - Plan Investisseur]] · [[4 - Plan Opérationnel]]

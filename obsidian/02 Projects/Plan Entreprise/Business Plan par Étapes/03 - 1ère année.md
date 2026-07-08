@@ -46,7 +46,7 @@ Première année d'**exploitation**. Le labo démarre avec 15 références ; les
 - [ ] Animation réseaux sociaux, e-mailing clients.
 
 ### Suivi
-- [ ] Tableau de bord mensuel du CA (cible **~1 900 €/mois**, mois forts : juillet, nov-déc) → voir [[Plan Opérationnel]].
+- [ ] Tableau de bord mensuel du CA (cible **~1 900 €/mois**, mois forts : juillet, nov-déc) → voir [[4 - Plan Opérationnel]].
 - [ ] Revue hebdomadaire (production / commercial / culture).
 
 ---
@@ -142,5 +142,5 @@ Vente à la ferme · logements insolites · sentier pédestre · agrotourisme ·
 
 - ⏮ Précédent : [[02 - Installation]] · ⏭ Suite : [[04 - 2ème année]]
 - Index : [[00 - Index et récapitulatif des budgets]]
-- Pilotage : [[Plan Opérationnel]] (tableau de bord mensuel détaillé)
+- Pilotage : [[4 - Plan Opérationnel]] (tableau de bord mensuel détaillé)
 - Production : [[Labo PPAM]] · [[Production PPAM]] · [[Planning Culture]] · [[Points de Vente]]

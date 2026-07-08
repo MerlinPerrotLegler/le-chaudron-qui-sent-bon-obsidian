@@ -99,4 +99,4 @@ Année de **consolidation** : obtention de la **certification AB**, montée en p
 - Index : [[00 - Index et récapitulatif des budgets]]
 - Production : [[Production PPAM]] · [[Labo PPAM]] · [[Planning Culture]]
 - Filière : [[Associations et Labels PPAM]] · [[Points de Vente]]
-- Plans : [[Plan Investisseur]] · [[Plan BPREA]]
+- Plans : [[3 - Plan Investisseur]] · [[1 - Plan BPREA]]

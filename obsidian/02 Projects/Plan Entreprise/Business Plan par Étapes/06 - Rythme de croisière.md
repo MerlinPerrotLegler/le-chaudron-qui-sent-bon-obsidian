@@ -104,7 +104,7 @@ L'UC5 propose un exercice de croisière intégrant les aides PAC/ICHN et le cré
 - Taux de marge brute labo ~65 %.
 - Part « cultivé ferme » ~50 % du CA.
 - ≥ 20 points de vente ; rémunération exploitant 36 000 €.
-- ROI : emprunt remboursé en 5-6 ans (cf. résumé exécutif [[Plan Investisseur]]).
+- ROI : emprunt remboursé en 5-6 ans (cf. résumé exécutif [[3 - Plan Investisseur]]).
 
 ---
 
@@ -114,4 +114,4 @@ L'UC5 propose un exercice de croisière intégrant les aides PAC/ICHN et le cré
 - Index : [[00 - Index et récapitulatif des budgets]]
 - Production : [[Production PPAM]] · [[Labo PPAM]] · [[Planning Culture]]
 - Diversification : [[Logements Insolites]] · [[Gestion de la Forêt]]
-- Plans : [[Plan Investisseur]] · [[Plan BPREA]] · [[Plan Opérationnel]]
+- Plans : [[3 - Plan Investisseur]] · [[1 - Plan BPREA]] · [[4 - Plan Opérationnel]]

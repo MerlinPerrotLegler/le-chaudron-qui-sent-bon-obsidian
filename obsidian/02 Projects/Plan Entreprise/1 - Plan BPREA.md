@@ -189,7 +189,7 @@ Gamme de **67 recettes** développées (source : Recettes et production.xlsx). P
 
 ## 8. Bilan prévisionnel simplifié
 
-*(Voir [[Plan Investisseur]] pour le détail)*
+*(Voir [[3 - Plan Investisseur]] pour le détail)*
 
 |                 | An 1          | An 2         | An 3          | An 5          | An 7          |
 | --------------- | ------------- | ------------ | ------------- | ------------- | ------------- |
@@ -238,8 +238,8 @@ Gamme de **67 recettes** développées (source : Recettes et production.xlsx). P
 
 ## Liens
 
-- [[Plan Investisseur]]
-- [[Plan Opérationnel]]
+- [[3 - Plan Investisseur]]
+- [[4 - Plan Opérationnel]]
 - [[Production PPAM]]
 - [[Planning Culture]]
 - [[Labo PPAM]]

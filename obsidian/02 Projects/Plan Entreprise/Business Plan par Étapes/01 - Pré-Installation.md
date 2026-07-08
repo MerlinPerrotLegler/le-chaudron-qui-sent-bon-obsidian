@@ -183,4 +183,4 @@ Ferme située sur l'**axe Albi–Millau**, secteur Combret / Saint-Sernin-sur-Ra
 - ⏭ Suite : [[02 - Installation]]
 - Index : [[00 - Index et récapitulatif des budgets]]
 - Ressources : [[La Cavalerie de Combret]] · [[Retenue Collinaire]] · [[Gestion de l'Eau]] · [[Sols Rougier de Camarès]] · [[Associations et Labels PPAM]] · [[Banque]]
-- Plans : [[Plan BPREA]] · [[Plan Investisseur]]
+- Plans : [[1 - Plan BPREA]] · [[3 - Plan Investisseur]]

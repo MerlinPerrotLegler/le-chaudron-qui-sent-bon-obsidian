@@ -167,8 +167,8 @@ Outil de pilotage concret pour l'exploitant. Moins de théorie, plus d'action : 
 
 ## Liens
 
-- [[Plan BPREA]]
-- [[Plan Investisseur]]
+- [[1 - Plan BPREA]]
+- [[3 - Plan Investisseur]]
 - [[Planning Culture]]
 - [[Production PPAM]]
 - [[Labo PPAM]]

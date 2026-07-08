@@ -136,4 +136,4 @@ Objectif de transformation : **3 t de production** / ~**11 000 produits** à ven
 - Index : [[00 - Index et récapitulatif des budgets]]
 - Production : [[Production PPAM]] · [[Labo PPAM]] · [[Planning Culture]] · [[Serre à Double Tunnel]]
 - Ressources : [[Gestion de l'Eau]] · [[Retenue Collinaire]] · [[Points de Vente]]
-- Plans : [[Plan Investisseur]] · [[Plan Opérationnel]]
+- Plans : [[3 - Plan Investisseur]] · [[4 - Plan Opérationnel]]
