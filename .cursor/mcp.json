@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "verif-prix": {
+      "command": "/Library/Frameworks/Python.framework/Versions/3.13/bin/uv",
+      "args": [
+        "run",
+        "--script",
+        "/Users/Shared/code/le-chaudron-qui-sent-bon-obsidian/.cursor/mcp-servers/verif-prix/server.py"
+      ]
+    }
+  }
+}
