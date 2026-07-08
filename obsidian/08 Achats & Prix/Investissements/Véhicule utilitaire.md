@@ -24,7 +24,13 @@ Utilitaire pour livraisons marchés / points de vente (si non disponible dans le
 
 ## Prix relevés
 
-*Aucun prix vérifié. Demander : « vérifie le prix d'un utilitaire d'occasion type Kangoo / Berlingo ».*
+Marché de l'**occasion** (pas de prix catalogue) : à chiffrer sur annonces
+([La Centrale](https://www.lacentrale.fr/), [Leboncoin](https://www.leboncoin.fr/))
+selon année/kilométrage. Ordre de grandeur : fourgonnette d'occasion type Kangoo /
+Berlingo / Partner ≈ 8 000–12 000 € ; le budget de 10 000 € est cohérent.
+
+**Action :** demander « vérifie le prix d'un utilitaire d'occasion Kangoo/Berlingo »
+pour relever quelques annonces réelles à un instant t.
 
 ## Liens
 

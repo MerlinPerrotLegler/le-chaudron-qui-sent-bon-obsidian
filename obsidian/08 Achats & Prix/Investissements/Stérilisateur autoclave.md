@@ -25,7 +25,18 @@ cornichons, sirops) — brique clé du [[Labo Lactofermentation]].
 
 ## Prix relevés
 
-*Aucun prix vérifié. Demander : « vérifie le prix d'un stérilisateur autoclave pour conserverie artisanale ».*
+Deux réalités selon le niveau visé :
+
+| Type | Exemple | Prix | Source |
+|------|---------|-----:|--------|
+| Stérilisateur électrique inox (artisanal) | [Tompress](https://www.tompress.com/CT-2874-sterilisateur-electrique-inox.aspx) | ≈ 250–290 € | regex (à confirmer) |
+| Comparateur bocaux | [LeDénicheur](https://ledenicheur.fr/s/sterilisateur-bocaux/) | ≈ 90–220 € | regex (à confirmer) |
+| Autoclave conserverie (appertisation pro) | Steriflow / Lagarde / Terra Food-Tech | **sur devis** (plusieurs k€) | — |
+
+**Décision à prendre :** un stérilisateur électrique (~300 €) suffit pour démarrer
+en petites séries ; un vrai **autoclave d'appertisation** (obligatoire pour conserves
+stables longue conservation) se chiffre sur devis. Le budget de 3 000 € correspond
+plutôt à une entrée de gamme d'autoclave — à valider par devis selon le débit visé.
 
 ## Liens
 
