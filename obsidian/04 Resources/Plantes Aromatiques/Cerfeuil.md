@@ -81,4 +81,4 @@ Cueillir les feuilles jeunes avant floraison.
 - [[Persil]]
 - [[Estragon]]
 - [[Cerfeuil musqué]]
-- [[Index Plantes Aromatiques]]
+- [[0 - Index Plantes Aromatiques]]

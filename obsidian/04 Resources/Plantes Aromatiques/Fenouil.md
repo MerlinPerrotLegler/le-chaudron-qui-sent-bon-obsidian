@@ -86,4 +86,4 @@ Couper les ombelles quand les graines virent au vert-brun (août-septembre). Met
 
 - [[Coriandre]]
 - [[Aneth]]
-- [[Index Plantes Aromatiques]]
+- [[0 - Index Plantes Aromatiques]]

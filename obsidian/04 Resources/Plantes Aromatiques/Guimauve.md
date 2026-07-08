@@ -70,4 +70,4 @@ Vivace médicinale à fleurs roses pâles. Triple usage : fleurs, feuilles, et r
 ## Liens
 
 - [[Labo PPAM]]
-- [[Index Plantes Aromatiques]]
+- [[0 - Index Plantes Aromatiques]]

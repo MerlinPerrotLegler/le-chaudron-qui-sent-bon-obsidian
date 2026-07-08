@@ -95,4 +95,4 @@ Très faible. Excellente résistance à la sécheresse. Arrosage uniquement la 1
 - [[Lavande]]
 - [[Sarriette]]
 - [[Sols Rougier de Camarès]]
-- [[Index Plantes Aromatiques]]
+- [[0 - Index Plantes Aromatiques]]

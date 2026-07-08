@@ -82,4 +82,4 @@ Cônes femelles mûrs (secs au toucher, parfumés, lupuline jaune) fin août-sep
 
 - [[Achillée millefeuille]] (aromate de bière ancien)
 - [[Gestion de la Forêt]]
-- [[Index Plantes Aromatiques]]
+- [[0 - Index Plantes Aromatiques]]

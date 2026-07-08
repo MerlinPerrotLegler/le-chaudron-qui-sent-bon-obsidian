@@ -79,4 +79,4 @@ Couper les plants au jaunissement des capsules basses ; suspendre tête en bas a
 ## Liens
 
 - [[Pavot]]
-- [[Index Plantes Aromatiques]]
+- [[0 - Index Plantes Aromatiques]]

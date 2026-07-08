@@ -84,4 +84,4 @@ Couper les capsules sèches (qui « hochent ») en fin d'été ; les graines son
 ## Liens
 
 - [[Sésame]]
-- [[Index Plantes Aromatiques]]
+- [[0 - Index Plantes Aromatiques]]

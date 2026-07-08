@@ -82,4 +82,4 @@ Arracher les rhizomes en automne quand les feuilles jaunissent (octobre).
 
 - [[Gingembre]]
 - [[Maraîchage]]
-- [[Index Plantes Aromatiques]]
+- [[0 - Index Plantes Aromatiques]]

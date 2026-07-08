@@ -73,4 +73,4 @@ Cueillir les feuilles aromatiques avant floraison.
 ## Liens
 
 - [[Labo PPAM]]
-- [[Index Plantes Aromatiques]]
+- [[0 - Index Plantes Aromatiques]]

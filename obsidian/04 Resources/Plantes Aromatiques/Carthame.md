@@ -84,4 +84,4 @@ Cueillir les fleurons (filaments orangés) à pleine floraison, les arracher du 
 - [[Safran]]
 - [[Souci]]
 - [[Curcuma]]
-- [[Index Plantes Aromatiques]]
+- [[0 - Index Plantes Aromatiques]]

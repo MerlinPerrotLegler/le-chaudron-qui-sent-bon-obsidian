@@ -89,4 +89,4 @@ Couper les plants entiers quand les ombelles brunissent (août-septembre), avant
 - [[Coriandre]]
 - [[Anis vert]]
 - [[Production PPAM]]
-- [[Index Plantes Aromatiques]]
+- [[0 - Index Plantes Aromatiques]]

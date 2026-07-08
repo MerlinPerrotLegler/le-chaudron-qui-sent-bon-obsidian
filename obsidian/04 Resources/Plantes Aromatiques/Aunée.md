@@ -79,4 +79,4 @@ Arracher la racine charnue à l'automne (2-3 ans).
 - [[Gentiane jaune]]
 - [[Marrube blanc]]
 - [[Absinthe]]
-- [[Index Plantes Aromatiques]]
+- [[0 - Index Plantes Aromatiques]]

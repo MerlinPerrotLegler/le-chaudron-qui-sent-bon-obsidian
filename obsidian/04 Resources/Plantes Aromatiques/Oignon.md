@@ -90,4 +90,4 @@ Arracher quand le feuillage est couché et jauni (été) ; ressuyer au soleil qu
 - [[Échalote]]
 - [[Maraîchage]]
 - [[Labo Lactofermentation]]
-- [[Index Plantes Aromatiques]]
+- [[0 - Index Plantes Aromatiques]]

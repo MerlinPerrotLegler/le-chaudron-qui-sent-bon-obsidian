@@ -78,4 +78,4 @@ Cueillir les capitules pleinement épanouis, le matin, en continu (juin-août).
 - [[Camomille Romaine]]
 - [[Mélisse]]
 - [[Labo PPAM]]
-- [[Index Plantes Aromatiques]]
+- [[0 - Index Plantes Aromatiques]]

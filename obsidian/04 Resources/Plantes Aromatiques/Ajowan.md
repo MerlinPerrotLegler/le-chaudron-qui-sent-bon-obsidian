@@ -81,4 +81,4 @@ Couper les ombelles brunissantes en fin d'été, finir en sac papier.
 
 - [[Cumin]]
 - [[Thym]]
-- [[Index Plantes Aromatiques]]
+- [[0 - Index Plantes Aromatiques]]

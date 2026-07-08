@@ -67,4 +67,4 @@ Cueillir les sommités fleuries (juin-juillet).
 
 - [[Lavande]]
 - [[Thym]]
-- [[Index Plantes Aromatiques]]
+- [[0 - Index Plantes Aromatiques]]

@@ -98,4 +98,4 @@ Arbuste épineux originaire d'Asie du Est. Épice à part entière — seul repr
 - [[Labo Lactofermentation]]
 - [[Sols Rougier de Camarès]]
 - [[Gestion de l'Eau]]
-- [[Index Plantes Aromatiques]]
+- [[0 - Index Plantes Aromatiques]]

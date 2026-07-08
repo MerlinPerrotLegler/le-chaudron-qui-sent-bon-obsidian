@@ -92,4 +92,4 @@ Cueillir les fleurs le matin ; extraire les 3 stigmates rouges (sans le style ja
 - [[Production PPAM]]
 - [[Sols Rougier de Camarès]]
 - [[Points de Vente]]
-- [[Index Plantes Aromatiques]]
+- [[0 - Index Plantes Aromatiques]]

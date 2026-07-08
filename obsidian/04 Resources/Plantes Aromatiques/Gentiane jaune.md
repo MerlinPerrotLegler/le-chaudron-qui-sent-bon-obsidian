@@ -85,4 +85,4 @@ Arracher les grosses racines à l'automne (plant de 5-10 ans).
 - [[Réglisse]]
 - [[Absinthe]]
 - [[Climat Sud Aveyron]]
-- [[Index Plantes Aromatiques]]
+- [[0 - Index Plantes Aromatiques]]

@@ -79,4 +79,4 @@ Feuilles tout l'été ; récolte principale avant les gelées.
 
 - [[Mélisse]]
 - [[Citronnelle]]
-- [[Index Plantes Aromatiques]]
+- [[0 - Index Plantes Aromatiques]]

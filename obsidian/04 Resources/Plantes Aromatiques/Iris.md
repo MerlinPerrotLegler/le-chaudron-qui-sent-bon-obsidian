@@ -84,4 +84,4 @@ Arracher les rhizomes à 3-4 ans, laver, peler.
 - [[Safran]]
 - [[Lavande]]
 - [[Labo PPAM]]
-- [[Index Plantes Aromatiques]]
+- [[0 - Index Plantes Aromatiques]]

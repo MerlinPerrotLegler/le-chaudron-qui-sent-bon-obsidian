@@ -85,4 +85,4 @@ Feuilles au printemps avant floraison (odeur d'ail = garantie d'identification).
 - [[Ciboulette]]
 - [[Gestion de la Forêt]]
 - [[Labo Lactofermentation]]
-- [[Index Plantes Aromatiques]]
+- [[0 - Index Plantes Aromatiques]]

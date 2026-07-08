@@ -81,5 +81,5 @@ Inciser la racine charnue (plant de 4-5 ans) avant floraison ; collecter le late
 ## Liens
 
 - [[Production PPAM]]
-- [[Index Plantes Aromatiques]]
-- [[Épices non cultivables en Aveyron]]
+- [[0 - Index Plantes Aromatiques]]
+- [[1 - Épices non cultivables en Aveyron]]

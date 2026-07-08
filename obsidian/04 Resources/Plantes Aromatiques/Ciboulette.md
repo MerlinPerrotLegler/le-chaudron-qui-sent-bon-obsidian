@@ -82,4 +82,4 @@ Feuilles fraîches en continu ; fleurs au moment de l'épanouissement.
 - [[Oignon]]
 - [[Ail des ours]]
 - [[Persil]]
-- [[Index Plantes Aromatiques]]
+- [[0 - Index Plantes Aromatiques]]

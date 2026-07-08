@@ -76,4 +76,4 @@ Feuilles fraîches en continu (arôme maximal frais).
 
 - [[Coriandre]]
 - [[Piment]]
-- [[Index Plantes Aromatiques]]
+- [[0 - Index Plantes Aromatiques]]

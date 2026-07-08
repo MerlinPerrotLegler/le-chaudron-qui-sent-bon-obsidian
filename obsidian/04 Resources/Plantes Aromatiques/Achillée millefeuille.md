@@ -78,4 +78,4 @@ Jeunes feuilles (printemps) ; sommités fleuries (été).
 
 - [[Tanaisie]]
 - [[Reine des prés]]
-- [[Index Plantes Aromatiques]]
+- [[0 - Index Plantes Aromatiques]]

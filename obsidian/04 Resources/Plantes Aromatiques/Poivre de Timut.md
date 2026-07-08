@@ -84,4 +84,4 @@ Cueillir les capsules quand elles s'entrouvrent (gants) ; **ne garder que l'enve
 - [[Poivre de Sichuan]]
 - [[Gattilier]]
 - [[Labo Lactofermentation]]
-- [[Index Plantes Aromatiques]]
+- [[0 - Index Plantes Aromatiques]]

@@ -83,4 +83,4 @@ Feuilles fraîches (toute l'année) ; zeste du fruit bosselé.
 - [[Mandarinier]]
 - [[Citronnelle]]
 - [[Poivre de Timut]]
-- [[Index Plantes Aromatiques]]
+- [[0 - Index Plantes Aromatiques]]

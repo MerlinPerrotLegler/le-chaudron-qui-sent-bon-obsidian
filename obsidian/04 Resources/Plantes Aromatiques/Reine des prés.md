@@ -79,4 +79,4 @@ Fleurs fraîchement épanouies (juin-juillet), par temps sec, le matin.
 - [[Achillée millefeuille]]
 - [[Sureau]]
 - [[Gestion de l'Eau]]
-- [[Index Plantes Aromatiques]]
+- [[0 - Index Plantes Aromatiques]]

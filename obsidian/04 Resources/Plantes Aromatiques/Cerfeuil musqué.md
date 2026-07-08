@@ -84,4 +84,4 @@ Vivace ombellifère très rustique des prairies de montagne, l'une des première
 - [[Angélique]]
 - [[Cerfeuil]]
 - [[Aspérule odorante]]
-- [[Index Plantes Aromatiques]]
+- [[0 - Index Plantes Aromatiques]]

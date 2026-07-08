@@ -79,4 +79,4 @@ Récolter les rhizomes 8-10 mois après la plantation.
 ## Liens
 
 - [[Curcuma]]
-- [[Index Plantes Aromatiques]]
+- [[0 - Index Plantes Aromatiques]]

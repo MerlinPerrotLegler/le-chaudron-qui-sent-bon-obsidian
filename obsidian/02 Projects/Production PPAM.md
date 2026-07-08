@@ -63,7 +63,7 @@ Atelier principal de La Cavalerie de Combret. Culture de **Plantes à Parfum, Ar
 
 ## Fiches détaillées par espèce
 
-Voir les fiches de culture complètes dans [[Index Plantes Aromatiques]] :
+Voir les fiches de culture complètes dans [[0 - Index Plantes Aromatiques]] :
 
 - [[Hélichryse]] — culture, risques, séchage, HE
 - [[Lavande]] — culture, risques, distillation, associations
@@ -81,5 +81,5 @@ Et 35+ autres plantes cultivables en Aveyron avec leurs détails complets.
 - [[Associations et Labels PPAM]]
 - [[Sols Rougier de Camarès]]
 - [[Gestion de l'Eau]]
-- [[Index Plantes Aromatiques]]
+- [[0 - Index Plantes Aromatiques]]
 - [[Planning Culture]] — plans de culture par espace

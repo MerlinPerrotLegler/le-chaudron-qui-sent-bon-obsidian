@@ -76,4 +76,4 @@ Sommités florales en début de floraison (août).
 
 - [[Absinthe]]
 - [[Aurone]]
-- [[Index Plantes Aromatiques]]
+- [[0 - Index Plantes Aromatiques]]

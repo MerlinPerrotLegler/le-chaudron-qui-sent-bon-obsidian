@@ -86,4 +86,4 @@ Arracher les racines/stolons à l'automne de la 3ème-4ème année.
 
 - [[Gentiane jaune]]
 - [[Anis vert]]
-- [[Index Plantes Aromatiques]]
+- [[0 - Index Plantes Aromatiques]]

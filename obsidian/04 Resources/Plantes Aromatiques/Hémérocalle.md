@@ -61,4 +61,4 @@ Cueillir les boutons floraux et fleurs le jour de leur ouverture.
 
 ## Liens
 
-- [[Index Plantes Aromatiques]]
+- [[0 - Index Plantes Aromatiques]]

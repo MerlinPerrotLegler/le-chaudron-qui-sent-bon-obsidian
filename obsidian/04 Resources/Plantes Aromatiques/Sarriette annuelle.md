@@ -76,4 +76,4 @@ Tiges feuillées avant/pendant floraison.
 
 - [[Sarriette]]
 - [[Thym]]
-- [[Index Plantes Aromatiques]]
+- [[0 - Index Plantes Aromatiques]]

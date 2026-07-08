@@ -78,4 +78,4 @@ Feuilles en continu ; fleurs en fin de saison.
 
 - [[Estragon]]
 - [[Oeillet d'Inde]]
-- [[Index Plantes Aromatiques]]
+- [[0 - Index Plantes Aromatiques]]

@@ -82,4 +82,4 @@ Sommités fleuries en début de floraison (juin-juillet).
 - [[Thym]]
 - [[Romarin]]
 - [[Sarriette]]
-- [[Index Plantes Aromatiques]]
+- [[0 - Index Plantes Aromatiques]]

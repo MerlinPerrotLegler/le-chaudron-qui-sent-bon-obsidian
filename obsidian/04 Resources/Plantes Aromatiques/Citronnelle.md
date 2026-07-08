@@ -83,4 +83,4 @@ Couper les tiges au ras de la touffe ; utiliser surtout la base charnue tendre.
 - [[Verveine citronnelle]]
 - [[Gingembre]]
 - [[Combava]]
-- [[Index Plantes Aromatiques]]
+- [[0 - Index Plantes Aromatiques]]

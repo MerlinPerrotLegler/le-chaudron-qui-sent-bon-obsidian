@@ -75,4 +75,4 @@ Jeunes pousses feuillées au printemps/été.
 
 - [[Absinthe]]
 - [[Armoise commune]]
-- [[Index Plantes Aromatiques]]
+- [[0 - Index Plantes Aromatiques]]

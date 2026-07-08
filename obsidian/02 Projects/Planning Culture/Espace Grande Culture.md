@@ -164,6 +164,6 @@ Plantation haies : **automne an 1** (racines actives hors végétation). Paillag
 - [[Camomille matricaire]]
 - [[Sauge sclarée]]
 - [[Sureau]]
-- [[Index Plantes Aromatiques]]
+- [[0 - Index Plantes Aromatiques]]
 - [[Labo PPAM]]
 - [[Gestion de l'Eau]]

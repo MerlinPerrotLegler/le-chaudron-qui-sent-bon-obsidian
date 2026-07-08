@@ -82,4 +82,4 @@ Cynorrhodons bien rouges, après gelées (plus doux).
 - [[Rose]]
 - [[Aubépine]]
 - [[Prunellier]]
-- [[Index Plantes Aromatiques]]
+- [[0 - Index Plantes Aromatiques]]

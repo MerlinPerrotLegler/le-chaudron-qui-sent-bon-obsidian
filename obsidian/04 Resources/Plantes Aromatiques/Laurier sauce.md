@@ -86,4 +86,4 @@ Cueillir les feuilles matures (vert foncé) toute l'année.
 - [[Myrte]]
 - [[Sumac]]
 - [[Labo Lactofermentation]]
-- [[Index Plantes Aromatiques]]
+- [[0 - Index Plantes Aromatiques]]

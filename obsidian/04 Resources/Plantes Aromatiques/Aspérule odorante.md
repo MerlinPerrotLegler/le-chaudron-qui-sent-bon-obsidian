@@ -78,4 +78,4 @@ Parties aériennes au printemps (mai), avant pleine floraison.
 - [[Cerfeuil musqué]]
 - [[Reine des prés]]
 - [[Gestion de la Forêt]]
-- [[Index Plantes Aromatiques]]
+- [[0 - Index Plantes Aromatiques]]

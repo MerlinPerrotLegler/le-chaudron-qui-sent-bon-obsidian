@@ -74,4 +74,4 @@ Couper les capsules avant l'ouverture complète (juillet-août).
 
 ## Liens
 
-- [[Index Plantes Aromatiques]]
+- [[0 - Index Plantes Aromatiques]]

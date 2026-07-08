@@ -165,6 +165,6 @@ Bordure pérenne : Ciboulette, Livèche, Estragon, Pimprenelle
 - [[Persil]]
 - [[Fenugrec]]
 - [[Souci]]
-- [[Index Plantes Aromatiques]]
+- [[0 - Index Plantes Aromatiques]]
 - [[Labo PPAM]]
 - [[Gestion de l'Eau]]

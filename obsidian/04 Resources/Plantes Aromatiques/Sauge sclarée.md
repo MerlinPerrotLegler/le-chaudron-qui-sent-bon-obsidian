@@ -82,4 +82,4 @@ Feuilles et sommités fleuries en pleine floraison (2ème année).
 - [[Sauge]]
 - [[Lavande]]
 - [[Labo PPAM]]
-- [[Index Plantes Aromatiques]]
+- [[0 - Index Plantes Aromatiques]]

@@ -80,4 +80,4 @@ Feuilles avant floraison (plus sucrées), en fin d'été.
 
 - [[Cerfeuil musqué]] (édulcorant local)
 - [[Réglisse]]
-- [[Index Plantes Aromatiques]]
+- [[0 - Index Plantes Aromatiques]]

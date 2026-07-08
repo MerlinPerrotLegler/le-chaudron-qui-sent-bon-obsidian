@@ -71,4 +71,4 @@ Cueillir les fleurs et feuilles en début de floraison.
 
 ## Liens
 
-- [[Index Plantes Aromatiques]]
+- [[0 - Index Plantes Aromatiques]]

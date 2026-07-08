@@ -92,4 +92,4 @@ Très faible. Espèce xerophile typique. Ne nécessite pas d'irrigation une fois
 - [[Romarin]]
 - [[Lavande]]
 - [[Sols Rougier de Camarès]]
-- [[Index Plantes Aromatiques]]
+- [[0 - Index Plantes Aromatiques]]

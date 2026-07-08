@@ -84,5 +84,5 @@ Cueillir les ombelles de graines encore vert tendre à mi-mûres (juillet-août)
 
 - [[Cardamome]]
 - [[Gestion de la Forêt]]
-- [[Épices non cultivables en Aveyron]]
-- [[Index Plantes Aromatiques]]
+- [[1 - Épices non cultivables en Aveyron]]
+- [[0 - Index Plantes Aromatiques]]

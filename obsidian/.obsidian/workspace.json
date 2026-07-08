@@ -4,33 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "07b1e41fd2196bc7",
+        "id": "cb77ec6f645f6452",
         "type": "tabs",
         "children": [
           {
-            "id": "58f9dfb0c8f2e673",
+            "id": "57cd043d3310b8df",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "04 Resources/Plantes Aromatiques/0 - Index Plantes Aromatiques.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nouvel onglet"
-            }
-          }
-        ]
-      },
-      {
-        "id": "1d32f084089c54d4",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "43f9214cce46e92e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vue graphique"
+              "title": "0 - Index Plantes Aromatiques"
             }
           }
         ]
@@ -195,9 +183,41 @@
       "bases:Créer une nouvelle base": false
     }
   },
-  "active": "43f9214cce46e92e",
+  "active": "57cd043d3310b8df",
   "lastOpenFiles": [
+    "04 Resources/Plantes Aromatiques/Absinthe.md",
+    "04 Resources/Plantes Aromatiques/1 - Épices non cultivables en Aveyron.md",
+    "04 Resources/Plantes Aromatiques/0 - Index Plantes Aromatiques.md",
+    "07 Paperasse/Banque.md",
+    "Index Plantes Aromatiques.md",
+    "05 References/Source - Projet BPREA UC1.md",
+    "05 References/Source - Gestion de la Forêt.md",
+    "04 Resources/Points de Vente.md",
+    "04 Resources/Sols Rougier de Camarès.md",
+    "04 Resources/Retenue Collinaire.md",
+    "04 Resources/Keyline.md",
+    "04 Resources/Gestion de l'Eau.md",
+    "04 Resources/Filière PPAM Occitanie.md",
+    "04 Resources/Filière CBD Aveyron.md",
+    "04 Resources/Environnement Économique Aveyron.md",
+    "04 Resources/Climat Sud Aveyron.md",
+    "04 Resources/Associations et Labels PPAM.md",
+    "02 Projects/Plan Entreprise/Business Plan par Étapes/00 - Index et récapitulatif des budgets.md",
     "01 Dashboard/Dashboard Le Chaudron qui sent bon.md",
-    "Bienvenue.md"
+    "07 Paperasse",
+    "Sans titre.md",
+    "04 Resources/Plantes Aromatiques/Ail.md",
+    "04 Resources/Plantes Aromatiques/Anis vert.md",
+    "04 Resources/Plantes Aromatiques/Épazote.md",
+    "04 Resources/Plantes Aromatiques/Églantier.md",
+    "04 Resources/Plantes Aromatiques/Échalote.md",
+    "04 Resources/Plantes Aromatiques/Wasabi.md",
+    "02 Projects/Planning Culture",
+    "02 Projects/Plan Entreprise",
+    "05 References",
+    "04 Resources/Plantes Aromatiques",
+    "04 Resources",
+    "02 Projects",
+    "01 Dashboard"
   ]
 }

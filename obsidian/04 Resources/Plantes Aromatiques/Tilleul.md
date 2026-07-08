@@ -79,4 +79,4 @@ Cueillir les inflorescences (fleurs + bractée) juste à l'épanouissement (juin
 - [[Aubépine]]
 - [[Camomille matricaire]]
 - [[Gestion de la Forêt]]
-- [[Index Plantes Aromatiques]]
+- [[0 - Index Plantes Aromatiques]]

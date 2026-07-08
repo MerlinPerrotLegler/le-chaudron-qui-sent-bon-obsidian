@@ -66,4 +66,4 @@ Cueillir fleurs et jeunes feuilles de mai à septembre.
 
 ## Liens
 
-- [[Index Plantes Aromatiques]]
+- [[0 - Index Plantes Aromatiques]]

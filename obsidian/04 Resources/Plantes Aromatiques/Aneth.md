@@ -80,4 +80,4 @@ Couper les ombelles vertes-brunes avant l'égrenage naturel. Finir en sac papier
 - [[Fenouil]]
 - [[Coriandre]]
 - [[Labo Lactofermentation]]
-- [[Index Plantes Aromatiques]]
+- [[0 - Index Plantes Aromatiques]]

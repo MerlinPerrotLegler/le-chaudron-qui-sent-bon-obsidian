@@ -120,6 +120,6 @@ Les espèces en pot rentrées chaque automne occupent 3-4 m² de la serre d'octo
 - [[Serre à Double Tunnel]]
 - [[Espace Drainé Très Ensoleillé]]
 - [[Espace Maraîchage]]
-- [[Index Plantes Aromatiques]]
+- [[0 - Index Plantes Aromatiques]]
 - [[Production PPAM]]
 - [[Gestion de l'Eau]]

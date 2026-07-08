@@ -82,4 +82,4 @@ Modéré. Arrosage régulier, surtout en période de floraison. Paillage au pied
 ## Liens
 
 - [[Labo PPAM]]
-- [[Index Plantes Aromatiques]]
+- [[0 - Index Plantes Aromatiques]]

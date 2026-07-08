@@ -75,4 +75,4 @@ Couper les gousses brunes avant ouverture complète.
 ## Liens
 
 - [[Production PPAM]]
-- [[Index Plantes Aromatiques]]
+- [[0 - Index Plantes Aromatiques]]

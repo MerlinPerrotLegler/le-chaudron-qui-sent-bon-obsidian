@@ -83,4 +83,4 @@ Annuelle grimpante/rampante à fleurs orange vif, entièrement comestible et au 
 - [[Souci]]
 - [[Oeillet d'Inde]]
 - [[Labo Lactofermentation]]
-- [[Index Plantes Aromatiques]]
+- [[0 - Index Plantes Aromatiques]]

@@ -83,4 +83,4 @@ Arbuste rampant méditerranéen poussant dans les rocailles et vieux murs. Très
 - [[Asafoetida]]
 - [[Capucine]] (substitut « câpres du pauvre »)
 - [[Labo Lactofermentation]]
-- [[Index Plantes Aromatiques]]
+- [[0 - Index Plantes Aromatiques]]

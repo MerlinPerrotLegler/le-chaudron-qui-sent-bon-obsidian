@@ -76,4 +76,4 @@ Jeunes feuilles tendres toute l'année (même en hiver doux).
 
 - [[Bourrache]]
 - [[Cerfeuil]]
-- [[Index Plantes Aromatiques]]
+- [[0 - Index Plantes Aromatiques]]

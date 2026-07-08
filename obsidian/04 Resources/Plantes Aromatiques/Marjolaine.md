@@ -78,4 +78,4 @@ Couper les tiges avant floraison, feuilles jeunes pour arôme optimal.
 - [[Origan]]
 - [[Thym]]
 - [[Sauge]]
-- [[Index Plantes Aromatiques]]
+- [[0 - Index Plantes Aromatiques]]

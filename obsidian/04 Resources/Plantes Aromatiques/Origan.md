@@ -83,4 +83,4 @@ Couper les tiges au 2/3 supérieur en début de floraison (juillet).
 - [[Thym]]
 - [[Sauge]]
 - [[Marjolaine]]
-- [[Index Plantes Aromatiques]]
+- [[0 - Index Plantes Aromatiques]]

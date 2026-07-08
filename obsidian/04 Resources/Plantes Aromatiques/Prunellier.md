@@ -82,4 +82,4 @@ Prunelles bleu-noir après gelées (ou les passer au congélateur pour simuler l
 - [[Églantier]]
 - [[Aubépine]]
 - [[Genévrier commun]] (gin maison)
-- [[Index Plantes Aromatiques]]
+- [[0 - Index Plantes Aromatiques]]

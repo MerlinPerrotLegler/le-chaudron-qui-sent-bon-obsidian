@@ -67,4 +67,4 @@ Cueillir les fleurs épanouies régulièrement.
 ## Liens
 
 - [[Souci]]
-- [[Index Plantes Aromatiques]]
+- [[0 - Index Plantes Aromatiques]]

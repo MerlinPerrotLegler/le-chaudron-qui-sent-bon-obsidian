@@ -81,4 +81,4 @@ Sommités fleuries ou feuilles avant floraison (juillet-août).
 - [[Armoise commune]]
 - [[Aurone]]
 - [[Sauge sclarée]]
-- [[Index Plantes Aromatiques]]
+- [[0 - Index Plantes Aromatiques]]

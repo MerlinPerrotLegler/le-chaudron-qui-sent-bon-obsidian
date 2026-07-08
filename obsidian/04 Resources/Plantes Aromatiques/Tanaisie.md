@@ -78,4 +78,4 @@ Jeunes feuilles au printemps ; fleurs en été (pour insectifuge).
 - [[Absinthe]]
 - [[Souci]]
 - [[Oeillet d'Inde]]
-- [[Index Plantes Aromatiques]]
+- [[0 - Index Plantes Aromatiques]]

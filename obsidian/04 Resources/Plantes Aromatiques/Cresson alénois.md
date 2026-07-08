@@ -75,4 +75,4 @@ Jeunes pousses fraîches ; graines à maturité (silicules sèches).
 
 - [[Moutarde]]
 - [[Raifort]]
-- [[Index Plantes Aromatiques]]
+- [[0 - Index Plantes Aromatiques]]

@@ -75,4 +75,4 @@ Cueillir les fleurs épanouies au sec, en matinée, régulièrement.
 ## Liens
 
 - [[Labo PPAM]]
-- [[Index Plantes Aromatiques]]
+- [[0 - Index Plantes Aromatiques]]

@@ -85,4 +85,4 @@ Grande bisannuelle (ou vivace courte) ombellifère, à l'arôme musqué et sucr�
 
 - [[Livèche]]
 - [[Cerfeuil musqué]]
-- [[Index Plantes Aromatiques]]
+- [[0 - Index Plantes Aromatiques]]

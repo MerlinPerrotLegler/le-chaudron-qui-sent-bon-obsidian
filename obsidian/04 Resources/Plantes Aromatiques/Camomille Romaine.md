@@ -75,4 +75,4 @@ Cueillir les fleurs épanouies (mai-juillet), tôt le matin.
 
 - [[Lavande]]
 - [[Thym]]
-- [[Index Plantes Aromatiques]]
+- [[0 - Index Plantes Aromatiques]]

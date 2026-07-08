@@ -85,4 +85,4 @@ Couper les jeunes tiges (20-30 cm) avant floraison, de mai à août.
 
 - [[Labo Lactofermentation]]
 - [[Maraîchage]]
-- [[Index Plantes Aromatiques]]
+- [[0 - Index Plantes Aromatiques]]

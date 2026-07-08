@@ -83,4 +83,4 @@ Cueillir les baies mûres (brun foncé) à l'automne.
 - [[Poivre de Sichuan]]
 - [[Poivre de Timut]]
 - [[Labo Lactofermentation]]
-- [[Index Plantes Aromatiques]]
+- [[0 - Index Plantes Aromatiques]]

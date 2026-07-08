@@ -82,4 +82,4 @@ Arracher les rhizomes à l'automne, laver, peler.
 - [[Reine des prés]]
 - [[Gestion de l'Eau]]
 - [[Retenue Collinaire]]
-- [[Index Plantes Aromatiques]]
+- [[0 - Index Plantes Aromatiques]]

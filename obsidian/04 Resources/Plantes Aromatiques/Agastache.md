@@ -73,4 +73,4 @@ Cueillir les sommités fleuries en début de floraison (juillet-août).
 
 - [[Menthe]]
 - [[Souci]]
-- [[Index Plantes Aromatiques]]
+- [[0 - Index Plantes Aromatiques]]

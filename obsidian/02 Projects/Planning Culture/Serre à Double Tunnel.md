@@ -114,4 +114,4 @@ Serre à double voile/tunnel non chauffée (ou chauffage d'appoint uniquement lo
 - [[Curcuma]]
 - [[Basilic]]
 - [[Piment]]
-- [[Index Plantes Aromatiques]]
+- [[0 - Index Plantes Aromatiques]]

@@ -81,4 +81,4 @@ Arbuste méditerranéen à feuillage persistant aromatique et baies bleu-noir. S
 - [[Laurier sauce]]
 - [[Sumac]]
 - [[Genévrier commun]]
-- [[Index Plantes Aromatiques]]
+- [[0 - Index Plantes Aromatiques]]

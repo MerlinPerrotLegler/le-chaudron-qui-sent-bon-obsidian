@@ -73,11 +73,11 @@ Prélever l'écorce des jeunes rejets, gratter l'écorce externe, faire sécher 
 ### Usage dans les recettes du Chaudron
 - **Cannelle / bâton de cannelle** : Baharat, Advieh, Colombo, Curry japonais, desserts, vins chauds
 - **Feuilles de cannelier** : aromate (currys, riz)
-- ℹ️ La quasi-totalité de la cannelle reste **à importer** — voir [[Épices non cultivables en Aveyron]]
+- ℹ️ La quasi-totalité de la cannelle reste **à importer** — voir [[1 - Épices non cultivables en Aveyron]]
 
 ## Liens
 
 - [[Cardamome]]
 - [[Laurier sauce]]
-- [[Épices non cultivables en Aveyron]]
-- [[Index Plantes Aromatiques]]
+- [[1 - Épices non cultivables en Aveyron]]
+- [[0 - Index Plantes Aromatiques]]

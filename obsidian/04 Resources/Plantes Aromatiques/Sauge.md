@@ -87,4 +87,4 @@ Cueillir les feuilles jeunes avant floraison (mai-juin) pour arôme maximal.
 - [[Thym]]
 - [[Romarin]]
 - [[Lavande]]
-- [[Index Plantes Aromatiques]]
+- [[0 - Index Plantes Aromatiques]]

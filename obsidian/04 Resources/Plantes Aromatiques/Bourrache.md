@@ -78,4 +78,4 @@ Fleurs en continu ; jeunes feuilles (les vieilles sont rêches et poilues).
 
 - [[Souci]]
 - [[Capucine]]
-- [[Index Plantes Aromatiques]]
+- [[0 - Index Plantes Aromatiques]]

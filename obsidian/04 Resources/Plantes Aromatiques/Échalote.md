@@ -79,4 +79,4 @@ Arracher au jaunissement du feuillage (été), ressuyer.
 
 - [[Oignon]]
 - [[Ail]]
-- [[Index Plantes Aromatiques]]
+- [[0 - Index Plantes Aromatiques]]

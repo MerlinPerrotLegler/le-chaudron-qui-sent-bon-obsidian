@@ -45,6 +45,6 @@ Trois lectures du même projet, adaptées à trois usages :
 - [[Production PPAM]]
 - [[Labo PPAM]]
 - [[Planning Culture]]
-- [[Index Plantes Aromatiques]]
+- [[0 - Index Plantes Aromatiques]]
 - [[La Cavalerie de Combret]]
 - [[Associations et Labels PPAM]]

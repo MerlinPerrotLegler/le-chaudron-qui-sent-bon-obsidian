@@ -81,4 +81,4 @@ Feuilles jeunes avant floraison (l'arôme citronné chute à la floraison).
 
 - [[Menthe]]
 - [[Verveine citronnelle]]
-- [[Index Plantes Aromatiques]]
+- [[0 - Index Plantes Aromatiques]]

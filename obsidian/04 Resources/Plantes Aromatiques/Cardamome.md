@@ -83,5 +83,5 @@ Cueillir les capsules vertes presque mûres (avant ouverture), à la main.
 - [[Berce commune]]
 - [[Gingembre]]
 - [[Curcuma]]
-- [[Épices non cultivables en Aveyron]]
-- [[Index Plantes Aromatiques]]
+- [[1 - Épices non cultivables en Aveyron]]
+- [[0 - Index Plantes Aromatiques]]

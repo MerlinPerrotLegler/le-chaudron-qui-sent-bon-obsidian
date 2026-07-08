@@ -96,4 +96,4 @@ Plante aromatique vivace à forte valeur ajoutée, aussi appelée "Immortelle" o
 - [[Thym]]
 - [[Romarin]]
 - [[Sols Rougier de Camarès]]
-- [[Index Plantes Aromatiques]]
+- [[0 - Index Plantes Aromatiques]]

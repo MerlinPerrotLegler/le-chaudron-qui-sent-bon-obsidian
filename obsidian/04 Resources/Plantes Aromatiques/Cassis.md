@@ -85,4 +85,4 @@ Arbuste fruitier des Grossulariacées, dont tout est aromatique : le bourgeon (n
 - [[Sureau]]
 - [[Labo PPAM]]
 - [[Gestion de l'Eau]]
-- [[Index Plantes Aromatiques]]
+- [[0 - Index Plantes Aromatiques]]

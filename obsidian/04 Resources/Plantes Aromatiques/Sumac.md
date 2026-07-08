@@ -84,4 +84,4 @@ Cueillir les grappes de baies rouge foncé mûres, par temps sec.
 
 - [[Myrte]]
 - [[Laurier sauce]]
-- [[Index Plantes Aromatiques]]
+- [[0 - Index Plantes Aromatiques]]

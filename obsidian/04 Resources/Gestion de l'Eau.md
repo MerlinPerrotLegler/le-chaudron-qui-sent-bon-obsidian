@@ -17,12 +17,12 @@ source:
 
 ## Ressources actuelles
 
-| Source | Volume | État |
-|---|---|---|
-| Puits | ? | Existant |
-| Citerne béton (bâtiment 200 m² de toiture) | 16 m³ | Existant |
-| Citerne | 28 m³ | Existant |
-| Cours d'eau | — | Trop bas, fragile, inutilisable pour l'irrigation |
+| Source                                     | Volume | État                                              |
+| ------------------------------------------ | ------ | ------------------------------------------------- |
+| Puits                                      | ?      | Existant                                          |
+| Citerne béton (bâtiment 200 m² de toiture) | 16 m³  | Existant                                          |
+| Citerne                                    | 28 m³  | Existant                                          |
+| Cours d'eau                                | —      | Trop bas, fragile, inutilisable pour l'irrigation |
 
 **Total stockage actuel : ~44 m³** (non considéré dans le calcul d'autonomie, servira à compenser l'évaporation de la retenue)
 

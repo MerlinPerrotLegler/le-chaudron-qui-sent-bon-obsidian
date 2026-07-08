@@ -98,4 +98,4 @@ Très faible. Résistant à la sécheresse une fois installé. Arrosage uniqueme
 - [[Hélichryse]]
 - [[Sols Rougier de Camarès]]
 - [[Gestion de l'Eau]]
-- [[Index Plantes Aromatiques]]
+- [[0 - Index Plantes Aromatiques]]

@@ -79,4 +79,4 @@ Feuilles jeunes en continu ; graines en fin de saison.
 
 - [[Basilic]]
 - [[Labo Lactofermentation]]
-- [[Index Plantes Aromatiques]]
+- [[0 - Index Plantes Aromatiques]]

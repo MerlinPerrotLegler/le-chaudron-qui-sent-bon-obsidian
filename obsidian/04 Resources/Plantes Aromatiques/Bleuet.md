@@ -60,4 +60,4 @@ Cueillir les fleurs épanouies de juin à août.
 
 ## Liens
 
-- [[Index Plantes Aromatiques]]
+- [[0 - Index Plantes Aromatiques]]

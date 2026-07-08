@@ -78,4 +78,4 @@ Cueillir les feuilles fraîches (l'arôme est maximal frais — séchées, elles
 
 - [[Combava]]
 - [[Mandarinier]]
-- [[Index Plantes Aromatiques]]
+- [[0 - Index Plantes Aromatiques]]

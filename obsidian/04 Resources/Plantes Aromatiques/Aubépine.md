@@ -83,4 +83,4 @@ Arbuste/petit arbre épineux des Rosacées, pilier des haies bocagères. Fleurs 
 - [[Églantier]]
 - [[Prunellier]]
 - [[Gestion de la Forêt]]
-- [[Index Plantes Aromatiques]]
+- [[0 - Index Plantes Aromatiques]]

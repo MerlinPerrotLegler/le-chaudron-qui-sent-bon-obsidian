@@ -81,4 +81,4 @@ Feuilles (toute l'année) et baies (automne).
 
 - [[Labo PPAM]]
 - [[Hélichryse]]
-- [[Index Plantes Aromatiques]]
+- [[0 - Index Plantes Aromatiques]]

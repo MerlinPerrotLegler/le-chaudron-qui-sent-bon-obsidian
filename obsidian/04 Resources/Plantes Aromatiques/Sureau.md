@@ -75,4 +75,4 @@ Cueillir les corymbes floraux entiers avant que les fleurs ne tombent (mai-juin)
 ## Liens
 
 - [[Gestion de la Forêt]]
-- [[Index Plantes Aromatiques]]
+- [[0 - Index Plantes Aromatiques]]

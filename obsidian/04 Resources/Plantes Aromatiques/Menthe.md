@@ -87,4 +87,4 @@ Couper les tiges à 5 cm de la base, juste avant floraison.
 
 - [[Gestion de l'Eau]]
 - [[Maraîchage]]
-- [[Index Plantes Aromatiques]]
+- [[0 - Index Plantes Aromatiques]]

@@ -74,10 +74,10 @@ Index des plans de culture par espace pour La Cavalerie de Combret (Combret, 123
 
 ## Liens de référence
 
-- [[Index Plantes Aromatiques]]
+- [[0 - Index Plantes Aromatiques]]
 - [[Production PPAM]]
 - [[Labo PPAM]]
 - [[Gestion de l'Eau]]
 - [[Sols Rougier de Camarès]]
 - [[La Cavalerie de Combret]]
-- [[Épices non cultivables en Aveyron]]
+- [[1 - Épices non cultivables en Aveyron]]

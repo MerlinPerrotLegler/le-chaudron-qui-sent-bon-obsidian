@@ -79,4 +79,4 @@ Sommités feuillées en été.
 - [[Gentiane jaune]]
 - [[Absinthe]]
 - [[Aunée]]
-- [[Index Plantes Aromatiques]]
+- [[0 - Index Plantes Aromatiques]]

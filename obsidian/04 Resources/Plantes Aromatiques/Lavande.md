@@ -101,4 +101,4 @@ Faible. Résistante à la sécheresse. Arrosage à l'implantation (5 L/plant), p
 - [[Retenue Collinaire]]
 - [[Gestion de l'Eau]]
 - [[Sols Rougier de Camarès]]
-- [[Index Plantes Aromatiques]]
+- [[0 - Index Plantes Aromatiques]]

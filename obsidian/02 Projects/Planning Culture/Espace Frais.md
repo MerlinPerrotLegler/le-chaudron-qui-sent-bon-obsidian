@@ -121,5 +121,5 @@ Strate basse (vivaces couvre-sol, bulbes, annuelles fraîches)
 - [[Sureau]]
 - [[Angélique]]
 - [[Mélisse]]
-- [[Index Plantes Aromatiques]]
+- [[0 - Index Plantes Aromatiques]]
 - [[Gestion de l'Eau]]
