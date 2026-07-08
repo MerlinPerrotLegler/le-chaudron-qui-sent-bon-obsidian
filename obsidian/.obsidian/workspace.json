@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Dashboard/Dashboard Le Chaudron qui sent bon.md",
+                "file": "07 Paperasse/Pluriactivité (Portage Informatique)/Questions pour l'Expert-Comptable.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dashboard Le Chaudron qui sent bon"
+              "title": "Questions pour l'Expert-Comptable"
+            }
+          },
+          {
+            "id": "efbfbbf07685a5d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "07 Paperasse/Notes \"La Clef de champs\".md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Notes \"La Clef de champs\""
             }
           }
         ]
@@ -53,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "questions",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -183,8 +197,14 @@
       "bases:Créer une nouvelle base": false
     }
   },
-  "active": "84715d96ff3bc0ff",
+  "active": "57cd043d3310b8df",
   "lastOpenFiles": [
+    "07 Paperasse/Notes \"La Clef de champs\".md",
+    "07 Paperasse/Pluriactivité (Portage Informatique)/Questions pour l'Expert-Comptable.md",
+    "07 Paperasse/Pluriactivité (Portage Informatique)/Note pour l'Expert-Comptable — Cumul Portage & Ferme.md",
+    "07 Paperasse/Pluriactivité (Portage Informatique)/Suivi Revenus Portage Informatique.md",
+    "01 Dashboard/Dashboard Le Chaudron qui sent bon.md",
+    "07 Paperasse/Pluriactivité (Portage Informatique)",
     "08 Achats & Prix/Investissements/Communication initiale.md",
     "08 Achats & Prix/Investissements/Stérilisateur autoclave.md",
     "08 Achats & Prix/Investissements/Étiqueteuse.md",
@@ -208,18 +228,12 @@
     "02 Projects/Plan Entreprise/3 - Plan Investisseur.md",
     "02 Projects/Plan Entreprise/2 - Plan Entreprise.md",
     "02 Projects/Plan Entreprise/1 - Plan BPREA.md",
-    "02 Projects/Plan Entreprise/0 - Charge de Travail & Objectifs de Production.md",
-    "01 Dashboard/Dashboard Le Chaudron qui sent bon.md",
-    "02 Projects/Planning Culture/Serre à Semis Chauffée.md",
-    "02 Projects/Planning Culture/Serre à Double Tunnel.md",
-    "02 Projects/Planning Culture/Planning Culture.md",
     "04 Resources/Recettes d'épices",
     "07 Paperasse/Réglementation Produits Transformés",
     "07 Paperasse",
     "02 Projects/Planning Culture",
     "02 Projects/Plan Entreprise",
     "05 References",
-    "04 Resources/Plantes Aromatiques",
-    "04 Resources"
+    "04 Resources/Plantes Aromatiques"
   ]
 }
