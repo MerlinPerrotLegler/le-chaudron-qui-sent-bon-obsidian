@@ -11,10 +11,13 @@
             "id": "57cd043d3310b8df",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vue graphique"
+              "type": "bases",
+              "state": {
+                "file": "Sans titre 1.base",
+                "viewName": "Tableau"
+              },
+              "icon": "lucide-table",
+              "title": "Sans titre 1"
             }
           },
           {
@@ -63,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "questions",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -196,6 +199,12 @@
   },
   "active": "57cd043d3310b8df",
   "lastOpenFiles": [
+    "2026-07-22.md",
+    "Sans titre 1.base",
+    "Sans titre 2.canvas",
+    "Sans titre 1.canvas",
+    "Sans titre.base",
+    "Sans titre.canvas",
     "07 Paperasse/Pluriactivité (Portage Informatique)/Questions pour l'Expert-Comptable.md",
     "02 Projects/Plan Entreprise/Business Plan par Étapes/00 - Index et récapitulatif des budgets.md",
     "07 Paperasse/Notes \"La Clef de champs\".md",
@@ -223,14 +232,10 @@
     "02 Projects/Labo Lactofermentation.md",
     "02 Projects/La Cavalerie de Combret.md",
     "02 Projects/Gestion de la Forêt.md",
-    "02 Projects/Plan Entreprise/4 - Plan Opérationnel.md",
-    "02 Projects/Plan Entreprise/3 - Plan Investisseur.md",
     "04 Resources/Recettes d'épices",
     "07 Paperasse/Réglementation Produits Transformés",
     "07 Paperasse",
     "02 Projects/Planning Culture",
-    "02 Projects/Plan Entreprise",
-    "05 References",
-    "04 Resources/Plantes Aromatiques"
+    "02 Projects/Plan Entreprise"
   ]
 }

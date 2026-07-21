@@ -16,6 +16,18 @@ source:
 
 Index des plans de culture par espace pour La Cavalerie de Combret (Combret, 12370, Aveyron). Chaque fichier détaille les espèces recommandées, le calendrier mensuel, les besoins en ressources et les associations.
 
+## Planning opérationnel (Excel)
+
+Fichier : `Recettes et production.xlsx` — 3 feuilles ajoutées :
+
+| Feuille | Contenu |
+|---------|---------|
+| **Besoins plantes** | kg sec/frais N1–N3 calculés depuis les recettes + objectifs labo |
+| **Planning Culture** | Espèces, espaces, surfaces An1–3, densités, priorités P1/P2/P3 |
+| **Calendrier culture** | Grille mensuelle semis / plantation / récolte / séchage |
+
+Calé sur les **15 refs An 1** et la montée An 2–3. Obsidian = stratégie par espace ; Excel = quantités et calendrier année.
+
 ---
 
 ## Espaces de culture
