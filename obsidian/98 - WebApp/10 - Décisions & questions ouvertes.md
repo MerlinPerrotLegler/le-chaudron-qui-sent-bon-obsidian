@@ -21,7 +21,7 @@ Journal des décisions prises pendant le brainstorming, et liste des points enco
 
 | # | Décision | Détail |
 |---|----------|--------|
-| D1 | **Forme** | Application **web hébergée sur Hostinger** (type d'hébergement précis à confirmer : mutualisé PHP/MySQL vs VPS Node). |
+| D1 | **Forme & stack** | Application **web sur Hostinger Business Web Hosting** : runtime **Node.js (Next.js)** ou **Python**, base **MySQL/MariaDB**, système de fichiers **persistant** (uploads sur disque local possibles), port injecté via `$PORT`, HTTPS auto. Détails → [[Guide technique pour développeurs]]. *(Choix Node/Next vs Python à arrêter à la spec technique.)* |
 | D2 | **Modèle du temps** | **Calendrier réel par année civile** (2026, 2027…), chaque année découpée en **52 semaines**. Le planning de culture, la production et le stock vivent sur des semaines réelles. |
 | D3 | **Méthode** | On capture d'abord tous les cas d'usage, puis on découpe en sous-systèmes ; chaque domaine aura sa propre spec + plan. |
 | D4 | **Itinéraire technique** | **Modèle par espèce, ajustable par lot** : chaque espèce porte un itinéraire type (étapes + durées), chaque lot en hérite et peut ajuster ses durées. Pilote le moteur de cascade (UC-E3.3/E3.4). |
@@ -34,6 +34,11 @@ Journal des décisions prises pendant le brainstorming, et liste des points enco
 | D10 | **Pas de vue pluriannuelle** | L'app raisonne **en année civile** (D2) ; la vue business-plan N1→N9 (revenu brut/net par année de l'onglet `Produit`) **reste dans Excel**, hors app. |
 | D11 | **Temps de travail** | Agréger le **temps requis** des étapes (recette + culture) → temps main d'œuvre par lot/unité ; **taux horaire** paramétrable → coût main d'œuvre **optionnel** dans le prix de revient (UC-A4.6) et vue charge (UC-T8). |
 | D12 | **Statistiques** | Une **page stats générale** + **une page par topic** (ventes, production, stock, culture, marges, charge de travail) (UC-T8). |
+| D14 | **Multi-utilisateur** | **Multi-utilisateur dès le V1** (Q-U1), auth simple **login/mot de passe**. Le **nom de l'opérateur** est tracé sur les actions (production, récolte…). Rôles/permissions fins = plus tard. |
+| D15 | **Traçabilité obligatoire** | Chaîne **Parcelle → Récolte → Transformation → Produit** obligatoire et remontable (Q-C1) : parcelle (amendements, réf. gaine, phytos, réf. graine) → récolte (date, n° sacs, quantité, qualité, DLUO) → **transformation** (séchage/distillation… : intrant+lot, procédé, rendement, matière+lot sortant) → production/produit (date, opérateur, réf., n° lot, DLUO). **DLUO/péremption** (Q-D1) et **emplacements de stockage** en select+créer (Q-D2) dans le périmètre. |
+| D18 | **Transformation = domaine distinct** | La **transformation primaire** (matière → matière : séchage, distillation, mondage…) est une opération **tracée à part**, distincte de la production par recette (assemblage → produit fini). Le séchage frais→sec devient un **événement tracé** (UC-C0), pas une conversion auto. Webhook `transformation déclarée`. |
+| D16 | **Culture sans « espace »** | Pas d'entité espace (Q-E4) : **parcelle** = unité de base (n° au format D6), la vocation est un **attribut**. Images **annotées avant upload** (pas de SIG, Q-E5). Parcelle porte un **historique hebdo / rotation** (Q-E2). Données de culture propres au **lot & à l'année** (rendement réel varie, Q-E7). |
+| D17 | **API & webhooks** | **API REST** (Q-G2), **clé d'API** simple (Q-G4). Webhooks **configurables par JSON** `nom.du.hook → [urls]` (Q-G3), chacun **documenté**. Prix matière **historisés** `{date:prix}`, exposés dans l'API (Q-A3). |
 
 ---
 
