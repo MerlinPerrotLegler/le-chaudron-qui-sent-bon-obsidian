@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "35a9dc988fbd44f5",
+        "id": "f8190b9397cda027",
         "type": "tabs",
         "children": [
           {
-            "id": "9afc2c948d750618",
+            "id": "3124eb53e3b8d7ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian/02 Projects/Planning Culture/Planning Culture.md",
+                "file": "obsidian/02 Projects/Production PPAM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Planning Culture"
+              "title": "Production PPAM"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "earl",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -183,16 +183,37 @@
       "bases:Créer une nouvelle base": false
     }
   },
-  "active": "9afc2c948d750618",
+  "active": "1d7af7fc77635e6b",
   "lastOpenFiles": [
+    "obsidian/98 - WebApp/10 - Décisions & questions ouvertes.md",
+    "obsidian/98 - WebApp/00 - Cas d'utilisation.md",
+    "obsidian/98 - WebApp",
+    "obsidian/02 Projects/Recettes et production Excel/Description du classeur (base v18).md",
+    "obsidian/2026-07-22.md",
+    "obsidian/04 Resources/Plantes Aromatiques/Bergamotier.md",
+    "Sans titre.canvas",
+    "obsidian/07 Paperasse/Pluriactivité (Portage Informatique)/Suivi Revenus Portage Informatique.md",
+    "obsidian/02 Projects/Recettes et production Excel/Méthode de contribution Recette Epice.md",
+    "obsidian/02 Projects/Recettes et production Excel/Analyse Recette Epice (base v18).md",
+    "obsidian/02 Projects/Recettes et production Excel/README.md",
+    "obsidian/02 Projects/Recettes et production Excel",
+    "Plan d'entreprise 2026 - Merlin Perrot _Chambres Occitanie_v1_Version JA_23022026 .pdf",
+    "Plan d'entreprise 2026_Chambres Occitanie_v1_Version JA_23022026.pdf",
+    "Plan d'entreprise 2026_Chambres Occitanie_v1_Version JA_23022026.docx",
+    "~$Recettes et production - v18.xlsx",
+    "obsidian/02 Projects/Plan Entreprise/4 - Plan Opérationnel.md",
+    "obsidian/02 Projects/Plan Entreprise/Business Plan par Étapes/01 - Pré-Installation.md",
+    "obsidian/02 Projects/Plan Entreprise/1 - Plan BPREA.md",
+    "obsidian/02 Projects/Plan Entreprise/0 - Charge de Travail & Objectifs de Production.md",
+    "obsidian/02 Projects/Planning Culture/Planning Culture.md",
+    "Charges de structure.xlsx",
+    "~$Recettes et production - v19.xlsx",
+    "Recettes et production - v19.xlsx",
+    "Recettes et production - v18.xlsx",
     "obsidian/02 Projects/Planning Culture/Espace Drainé Très Ensoleillé.md",
     "Sans titre 1.canvas",
-    "Sans titre.canvas",
-    "obsidian/Sans titre 1.base",
     "obsidian/Sans titre 2.canvas",
     "obsidian/Sans titre 1.canvas",
-    "obsidian/Sans titre.base",
-    "obsidian/2026-07-22.md",
     "obsidian/Sans titre.canvas",
     "obsidian/02 Projects/Plan Entreprise/Business Plan par Étapes/06 - Rythme de croisière.md",
     "obsidian/02 Projects/Plan Entreprise/Business Plan par Étapes/05 - 3ème année.md",
@@ -204,9 +225,6 @@
     "obsidian/02 Projects/Labo PPAM.md",
     "obsidian/01 Dashboard/Dashboard Le Chaudron qui sent bon.md",
     "obsidian/04 Resources/Plantes Aromatiques/Index Plantes Aromatiques.md",
-    "obsidian/02 Projects/Plan Entreprise/Business Plan par Étapes/00 - Index et récapitulatif des budgets.md",
-    "obsidian/02 Projects/Plan Entreprise/Plan BPREA.md",
-    "obsidian/02 Projects/Plan Entreprise/Business Plan par Étapes/01 - Pré-Installation.md",
-    "obsidian/02 Projects/Plan Entreprise/Business Plan par Étapes"
+    "obsidian/02 Projects/Plan Entreprise/Business Plan par Étapes/00 - Index et récapitulatif des budgets.md"
   ]
 }

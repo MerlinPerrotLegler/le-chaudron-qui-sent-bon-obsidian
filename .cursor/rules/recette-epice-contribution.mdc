@@ -1,0 +1,28 @@
+---
+description: Contribution method for Recette Epice Excel files
+alwaysApply: true
+---
+
+# Règle — Contribution Recette Epice
+
+Quand tu modifies un fichier `Recettes et production*.xlsx` (surtout la feuille **Recette Epice**), tu dois respecter la méthode du dossier :
+
+- `obsidian/02 Projects/Recettes et production Excel/Description du classeur (base v18).md`
+- `obsidian/02 Projects/Recettes et production Excel/Analyse Recette Epice (base v18).md`
+- `obsidian/02 Projects/Recettes et production Excel/Méthode de contribution Recette Epice.md`
+
+## Obligations
+
+1. Traiter Recette Epice + Produit + Ingredients comme un système lié.
+2. Conserver les tables structurées (`TableauRecette`, `TableauProduit`, `TableauIngredients`) et leurs plages correctes.
+3. Vérifier les formules critiques (ID, fraction, prix achat/kg, kg/an N1..N9).
+4. Éviter toute formule basée sur des noms de colonnes non alignés avec les noms internes de table.
+5. Refuser une contribution si `#REF!` persiste dans les colonnes critiques.
+6. Vérifier les correspondances de noms d'ingrédients entre Recette Epice et Ingredients.
+7. **Toujours écrire les documents produits en UTF-8** (notes Obsidian `.md`, règles `.mdc`, scripts texte, README). Interdit : Latin-1, MacRoman, Windows-1252, ou fichiers avec accents corrompus (`é` → `�` / `?`). Après écriture, vérifier l'encodage (`file -I` ou lecture `encoding="utf-8"`).
+
+## Sortie attendue
+
+- Résumé des changements
+- Contrôles effectués
+- Éventuels risques restants
