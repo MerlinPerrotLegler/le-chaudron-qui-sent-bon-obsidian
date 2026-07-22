@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian/02 Projects/Production PPAM.md",
+                "file": "obsidian/98 - WebApp/10 - Décisions & questions ouvertes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Production PPAM"
+              "title": "10 - Décisions & questions ouvertes"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 540.5
   },
   "right": {
     "id": "7dd06225a89940ec",
@@ -183,10 +183,12 @@
       "bases:Créer une nouvelle base": false
     }
   },
-  "active": "1d7af7fc77635e6b",
+  "active": "3124eb53e3b8d7ea",
   "lastOpenFiles": [
-    "obsidian/98 - WebApp/10 - Décisions & questions ouvertes.md",
     "obsidian/98 - WebApp/00 - Cas d'utilisation.md",
+    "obsidian/98 - WebApp/10 - Décisions & questions ouvertes.md",
+    "obsidian/98 - WebApp/Guide technique pour développeurs.md",
+    "obsidian/02 Projects/Production PPAM.md",
     "obsidian/98 - WebApp",
     "obsidian/02 Projects/Recettes et production Excel/Description du classeur (base v18).md",
     "obsidian/2026-07-22.md",
@@ -221,10 +223,8 @@
     "obsidian/02 Projects/Plan Entreprise/Business Plan par Étapes/03 - 1ère année.md",
     "obsidian/02 Projects/Plan Entreprise/Business Plan par Étapes/02 - Installation.md",
     "obsidian/04 Resources/Plantes Aromatiques/Lavande.md",
-    "obsidian/02 Projects/Production PPAM.md",
     "obsidian/02 Projects/Labo PPAM.md",
     "obsidian/01 Dashboard/Dashboard Le Chaudron qui sent bon.md",
-    "obsidian/04 Resources/Plantes Aromatiques/Index Plantes Aromatiques.md",
-    "obsidian/02 Projects/Plan Entreprise/Business Plan par Étapes/00 - Index et récapitulatif des budgets.md"
+    "obsidian/04 Resources/Plantes Aromatiques/Index Plantes Aromatiques.md"
   ]
 }
